@@ -1,7 +1,10 @@
-# C++ PROGRAMS
-***************************************************************All Programs of C++ WHICH ARE done in training classes ****************************************************
+# C++ PROGRAM
+
+***********************************All Programs of C++ WHICH ARE done in training classes ****************
+
                                                                     Program 1- power of (x^n)
                                                                     -------------------------
+								    
 a. Through procedural approach
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 //power of x to the n(x^n) program by procedural approach in c++
@@ -43,9 +46,12 @@ int main()
 
 
 
+
 Method 3 of program 1 - b. Through object oriented approach
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
 //power of x to the n(x^n) program by object oriented  approach in c++
+
 #include<iostream>
 #include<cmath>
 using namespace std;
@@ -79,8 +85,9 @@ int main()
 	return 0;
 }
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-                                                                                PROGRAM 2 :  FACTORIAL OF A NUMBER
-                                                                              --------------------------------------------
+
+                                                                       PROGRAM 2 :  FACTORIAL OF A NUMBER
+                                                                      --------------------------------------------
 a. Through procedural approach
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 //FACTORIAL  of a number (n) by procedural approach in c++
@@ -152,10 +159,13 @@ int main()
     obj.output();
 	  return 0;
 }
+
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 
                                   PROGRAM 3- Access the information of two students by main function through making class data is public through oo aproach.
                                   ---------------------------------------------------------------------------------------------------------------------------
+				  
 //access the information of two students by main function through making class data is public through oo aproach
 #include<iostream>
 using namespace std;
@@ -181,9 +191,13 @@ int main()
 	cout<<s2.name<<"  "<<"Roll no. : "<<s2.roll<<"  "<<"Marks : "<<s2.marks<<endl;
 	return 0;
 }
+
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
                           PROGRAM 4-Access the information of two students by main function throgh set and get method in class making public by oo approach
                         ------------------------------------------------------------------------------------------------------------------------------------
+			
 //Access the information of two students by main function throgh set and get method in class making public by oo approach
 #include<iostream>
 using namespace std;
@@ -217,6 +231,7 @@ int main()
 
     PROGRAM 5-Access the information of one students in two times by class through set and get method by putting constant info and making object in main function through oo aproach. 
   -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  
 //Access the information of two students by class through set and get method by putting constant info and making object in main function through oo aproach.
 #include<iostream>
 using namespace std;           //But here only access one student information not of two student due to no object making 
@@ -251,6 +266,7 @@ int main()
 	s2.get();
     return 0;
 }    
+
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 
