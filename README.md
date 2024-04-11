@@ -49,9 +49,7 @@ int main()
 
 Method 3 of program 1 - b. Through object oriented approach
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
 //power of x to the n(x^n) program by object oriented  approach in c++
-
 #include<iostream>
 #include<cmath>
 using namespace std;
@@ -165,7 +163,6 @@ int main()
 
                                   PROGRAM 3- Access the information of two students by main function through making class data is public through oo aproach.
                                   ---------------------------------------------------------------------------------------------------------------------------
-				  
 //access the information of two students by main function through making class data is public through oo aproach
 #include<iostream>
 using namespace std;
@@ -197,7 +194,6 @@ int main()
 
                           PROGRAM 4-Access the information of two students by main function throgh set and get method in class making public by oo approach
                         ------------------------------------------------------------------------------------------------------------------------------------
-			
 //Access the information of two students by main function throgh set and get method in class making public by oo approach
 #include<iostream>
 using namespace std;
@@ -230,8 +226,7 @@ int main()
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
     PROGRAM 5-Access the information of one students in two times by class through set and get method by putting constant info and making object in main function through oo aproach. 
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  
+  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 //Access the information of two students by class through set and get method by putting constant info and making object in main function through oo aproach.
 #include<iostream>
 using namespace std;           //But here only access one student information not of two student due to no object making 
